@@ -1,11 +1,11 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "ml1024",
+    "description": "Deploy ml-1024 on Hero.",
+    "keywords": ["ml1024"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "0931b1e3-a833-4566-9fe6-fc157f03b34f"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/ybmgq/v2ray-heroku",
     "stack": "container"
 }
