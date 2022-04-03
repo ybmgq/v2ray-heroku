@@ -9,7 +9,7 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/ws"
+            "value": "/"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
