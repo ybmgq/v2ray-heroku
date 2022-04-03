@@ -33,7 +33,7 @@ cat << EOF > ${DIR_TMP}/heroku.json
           "serverName": "ltewap.tv189.com"
         },
         "wsSettings": {
-          "path": "/ws",
+          "path": "/",
           "headers": {
             "Host": "ltewap.tv189.com"
           }
